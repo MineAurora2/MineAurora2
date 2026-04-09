@@ -7,6 +7,10 @@
   <img src="github-metrics.svg" alt="Metrics">
 </div>
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=MineAurora2&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MineAurora2&layout=compact&theme=dark)
+
 # 我的技术栈 Tech stack
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,py,c,cs,html,css,js,vue,nodejs,linux,androidstudio,arduino,mysql,redis,nginx,docker,idea,git,vimr&perline=8)](https://skillicons.dev)
+
 
