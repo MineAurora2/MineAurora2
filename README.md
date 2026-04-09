@@ -1,16 +1,17 @@
 # 你好,欢迎临我的主页. Hello, this is my homepage. 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ZCOOL+KuaiLe&size=30&pause=1000&color=6D9493&center=true&vCenter=true&random=true&width=435&lines=%E4%BB%A5%E7%A8%8B%E5%BA%8F%E8%A7%A3%E6%9E%84%E4%B8%96%E7%95%8C%EF%BC%8C%E7%94%A8%E4%BB%A3%E7%A0%81%E5%AE%9A%E4%B9%89%E4%BA%BA%E7%94%9F)](https://git.io/typing-svg)
-
 # 统计面板 Github Metrics 
 <div>
   <img src="github-metrics.svg" alt="Metrics">
 </div>
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=MineAurora2&show_icons=true&theme=dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MineAurora2&layout=compact&theme=dark)
-
 # 我的技术栈 Tech stack
+
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,py,c,cs,html,css,js,vue,nodejs,linux,androidstudio,arduino,mysql,redis,nginx,docker,idea,git,vimr&perline=8)](https://skillicons.dev)
 
+---
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=MineAurora2&show_icons=true&theme=dark)
+
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MineAurora2&layout=compact&theme=dark)
