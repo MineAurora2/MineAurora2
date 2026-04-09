@@ -1,0 +1,25 @@
+name: Metrics
+on:
+  # 定时任务：每天 UTC 时间 0 点（北京时间早上 8 点）自动更新一次
+  schedule: [{cron: "0 0 * * *"}]
+  # 允许你在 Actions 页面手动点击运行
+  workflow_dispatch:
+  # 当你向 main 分支推送代码时触发更新 (如果你的默认分支是 master 请更改)
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # 读取你在第二步配置的 Secret
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # 替换为你的 GitHub 用户名
+          user: MineAurora2
+          
+          # 基础配置模板
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Shanghai
