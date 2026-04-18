@@ -9,7 +9,7 @@
 
 # 我的技术栈 Tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,py,c,cs,html,css,js,vue,nodejs,linux,androidstudio,arduino,mysql,redis,nginx,docker,idea,git,vimr&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,py,c,cs,html,css,js,vue,nodejs,linux,androidstudio,arduino,mysql,redis,nginx,docker,idea,git,vimr&perline=10)](https://skillicons.dev)
 
 ---
 
